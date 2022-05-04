@@ -408,3 +408,14 @@ lista=[1,23,4,4,5,66]
 #1
 #2
 #3
+
+def fun(x,y):
+    suma=x+y
+    return suma
+
+print("Podaj liczbę pierwszą)
+pierwsza=int(input())
+print("Podaj liczbę drugą)
+druga=int(input())
+
+print(fun(pierwsza,druga))
