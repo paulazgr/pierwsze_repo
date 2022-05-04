@@ -419,3 +419,4 @@ print("Podaj liczbę drugą)
 druga=int(input())
 
 print(fun(pierwsza,druga))
+print("no i fajno")
