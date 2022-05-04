@@ -420,3 +420,4 @@ druga=int(input())
 
 print(fun(pierwsza,druga))
 print("no i fajno")
+print("na serio cool")
