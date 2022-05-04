@@ -405,3 +405,6 @@ lista3=[]
 print(sumowanie_elementow(lista1,lista2,lista3))
 
 lista=[1,23,4,4,5,66]
+#1
+#2
+#3
