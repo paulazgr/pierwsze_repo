@@ -410,8 +410,8 @@ lista=[1,23,4,4,5,66]
 #3
 
 def fun(x,y):
-    suma=x+y
-    return suma
+    return x+y
+    
 
 print("Podaj liczbę pierwszą)
 pierwsza=int(input())
